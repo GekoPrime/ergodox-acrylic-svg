@@ -1,2 +1,2 @@
 # ergodox-acrylic-svg
-Printable SVG files for the Ergodox keyboard case
+Printable SVG and STL files for the Ergodox keyboard case, designed by Litster
